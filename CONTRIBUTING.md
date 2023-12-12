@@ -1,0 +1,1 @@
+This CONTRIBUTING.md file acts as a comprehensive guide for individuals interested in contributing to our healthcare initiative. It sets clear expectations, standards and ethical considerations to ensure consistent, high-qualty contributions.
